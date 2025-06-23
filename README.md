@@ -8,7 +8,7 @@ Yufei Zhang, Shuo Jin, Wenting Kuang, Yuda Zheng, Qifeng Song, Changhe Fan, Yong
 
 ## Dataset 📖
 
-Regarding the dataset, we collected multimodal physiological signals from 17 depressed patients as well as 18 normal subjects, including heart rate variability, blood oxygen saturation, galvanic skin response (IR and IRed), and skin temperature signals. Data on depressed patients were collected from the Second People's Hospital of Guangdong Province, and data on normal subjects were collected from students recruited from Shenzhen University. **Our data paper is being submitted to the journal, and we will open access to the dataset after it is published.** 
+Regarding the dataset, we collected multimodal physiological signals from 17 depressed patients as well as 18 normal subjects, including heart rate variability, blood oxygen saturation, galvanic skin response (IR and IRed), and skin temperature signals. Data on depressed patients were collected from the Second People's Hospital of Guangdong Province, and data on normal subjects were collected from students recruited from Shenzhen University. **Our data paper is being submitted to other journal, and we will open access to the dataset after it is published.** 
 
 | Signal type             | Sensor model | Sampling rate | Data type                                   |
 | ----------------------- | ------------ | ------------- | ------------------------------------------- |
