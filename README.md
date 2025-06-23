@@ -2,7 +2,7 @@
 
 This is the PyTorch implementation of ***DepGuard*** for depression recognition and episodes monitoring. 
 
-Yufei Zhang, Shuo Jin, Wenting Kuang, Yuda Zheng, Qifeng Song, Changhe Fan, Yongpan Zou, Victor C. M. Leung, Kaishun Wu. "DepGuard: Depression Recognition and Episode Monitoring System with A Ubiquitous Wrist-worn Device", accepted as a regular paper in ***IEEE Transactions on Mobile Computing***.
+Yufei Zhang, Shuo Jin, Wenting Kuang, Yuda Zheng, Qifeng Song, Changhe Fan, Yongpan Zou, Victor C. M. Leung, Kaishun Wu. "DepGuard: Depression Recognition and Episode Monitoring System with A Ubiquitous Wrist-worn Device", just accepted as a regular paper in ***IEEE Transactions on Mobile Computing***.
 
 
 
