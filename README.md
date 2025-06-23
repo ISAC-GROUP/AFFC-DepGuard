@@ -57,7 +57,7 @@ If you find our work useful, please consider citing our paper:
 ```
 @inproceedings{zhang2025depguard,
   title={DepGuard: Depression Recognition and Episode Monitoring System with A Ubiquitous Wrist-worn Device},
-  author={Yufei Zhang, Shuo Jin, Wenting Kuantg, Yuda Zheng, Qifeng Song, Changhe Fan, Yongpan Zou, Victor C. M. Leung, Kaishun Wu},
+  author={Yufei Zhang, Shuo Jin, Wenting Kuang, Yuda Zheng, Qifeng Song, Changhe Fan, Yongpan Zou, Victor C. M. Leung, Kaishun Wu},
   journal={IEEE Transactions on Mobile Computing},
   pages={},
   year={2025},
