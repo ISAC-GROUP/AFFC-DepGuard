@@ -55,12 +55,14 @@ multiprocessing
 If you find our work useful, please consider citing our paper:
 
 ```
-@inproceedings{zhang2025depguard,
+@ARTICLE{zhang2025depguard,
   title={DepGuard: Depression Recognition and Episode Monitoring System with A Ubiquitous Wrist-worn Device},
-  author={Yufei Zhang, Shuo Jin, Wenting Kuang, Yuda Zheng, Qifeng Song, Changhe Fan, Yongpan Zou, Victor C. M. Leung, Kaishun Wu},
+  author={Zhang, Yufei and Jin, Shuo and Kuang, Wenting and Zheng, Yuda and Song, Qifeng and Fan, Changhe and Zou, Yongpan and Leung, Victor C. M. and Wu, Kaishun},
   journal={IEEE Transactions on Mobile Computing},
-  pages={},
+  pages={1-18},
   year={2025},
+  doi={10.1109/TMC.2025.3591096},
+  ISSN={1558-0660},
   organization={IEEE Computer Society}
 }
 ```
