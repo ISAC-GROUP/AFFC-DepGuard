@@ -69,4 +69,4 @@ If you find our work useful, please consider citing our paper:
 
 ## Acknowledgement ✉️
 
-If you are interested in our collection of ubiquitous wearable devices, please contact  [Yongpan Zou Prof.](https://yongpanzou.github.io/), College of Computer Science and Software Engineering, Shenzhen University.
+If you are interested in our collection of ubiquitous wearable devices, please contact  [Prof. Yongpan Zou](https://yongpanzou.github.io/), College of Computer Science and Software Engineering, Shenzhen University.
